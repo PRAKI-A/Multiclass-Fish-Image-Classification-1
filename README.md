@@ -14,4 +14,4 @@ Streamlit (for deployment)
 GitHub Documentation
 📁 Dataset
 The dataset consists of images of fish organized into subfolders by species.
-Example path structure:
+Example path structure
