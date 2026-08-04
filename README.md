@@ -2,7 +2,7 @@
 DS_Multiclass Fish Image Classification
 
 🐟 Multiclass Fish Image Classification
-This project classifies fish images into multiple categories using deep learning. It combines a CNN built from scratch and five powerful transfer learning models. A Streamlit app allows real-time image classification.
+This project classifies fish images into multiple categories using deep learning. It combines a CNN built from scratch and five powerful transfer learning models. A Streamlit app allows real-time image classification
 
 🔧 Skills Used
 Deep Learning
